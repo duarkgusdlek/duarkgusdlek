@@ -5,7 +5,7 @@
 
 <div align="left">-
   
-![header](https://d19bi7owzxc0m2.cloudfront.net/prod/users/wZyzCzeP4bFjk2BlP2II5.png){: width="50" height="50"}
+![header](https://d19bi7owzxc0m2.cloudfront.net/prod/users/wZyzCzeP4bFjk2BlP2II5.png)(width="50" height="50")
 
   ## 안녕하십니까, 허거덩스입니다. 👋
   ### 이름에 별 뜻은 없고요. 그냥 허거덩스한 생활을 보내고 있어서 허거덩스로 지었습니다.
