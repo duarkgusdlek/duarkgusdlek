@@ -13,7 +13,7 @@
   ### 사진은 쌈뽕하지요? 맞습니다. 전 쌈뽕한 것도 좋아하지요 후후훗
 
   <hr>
-  #### 문제 해결과 효율적 생산성에 관심이 많은 사람입니다. 일할 때 비효율적인 것을 매우 싫어하지요. 
+  문제 해결과 효율적 생산성에 관심이 많은 사람입니다. 일할 때 비효율적인 것을 매우 싫어하지요. 
   
   ### 😄 연락 : <a href="#"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
   ### 😄 사용 언어:<img src="https://img.shields.io/badge/HTML5-beige??style=for-the-badge&logo=HTML5&logoColor=E34F26"/>, <img src="https://img.shields.io/badge/CSS3-beige??style=for-the-badge&logo=CSS3&logoColor=1572B6"/>, <img src="https://img.shields.io/badge/JS-beige??style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/피그마-violet??style=for-the-badge&logo=figma&logoColor=black">
