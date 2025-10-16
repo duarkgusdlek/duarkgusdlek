@@ -5,7 +5,7 @@
 
 <div align="left">-
   
-<img src="https://d19bi7owzxc0m2.cloudfront.net/prod/users/wZyzCzeP4bFjk2BlP2II5.png", width=100, height=100>
+<img src="https://d19bi7owzxc0m2.cloudfront.net/prod/users/wZyzCzeP4bFjk2BlP2II5.png", width="100px", height="100px">
 
 
   ## 안녕하십니까, 허거덩스입니다. 👋
