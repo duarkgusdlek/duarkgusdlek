@@ -5,7 +5,7 @@
 
 <div align="left">-
   
-![header](https://d19bi7owzxc0m2.cloudfront.net/prod/users/wZyzCzeP4bFjk2BlP2II5.png)
+<img src="https://d19bi7owzxc0m2.cloudfront.net/prod/users/wZyzCzeP4bFjk2BlP2II5.png", width=100, height=100>
 
 
   ## 안녕하십니까, 허거덩스입니다. 👋
